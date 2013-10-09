@@ -1,0 +1,68 @@
+
+table.scale
+{
+ border-collapse:	collapse;
+ width: 100%;
+}
+
+td.scale_year
+{
+ background: #f7f7f7 url(../images/dots.gif) 0 0 no-repeat;
+ border-top: 1px solid #000;
+ border-right: 1px solid #000;
+ font: normal 10px verdana,'Bitstream Vera Sans',helvetica,arial,sans-serif;
+ text-align: center;
+}
+
+td.scale_month
+{
+ border-top: 1px solid #000;
+ border-bottom: 1px solid #000;
+ font: normal 10px verdana,'Bitstream Vera Sans',helvetica,arial,sans-serif;
+ text-align: center;
+ background-color: #ff3030;
+}
+
+td.scale_month12
+{
+ font: normal 10px verdana,'Bitstream Vera Sans',helvetica,arial,sans-serif;
+ text-align: center;
+ color: #696969;
+ border-right: 1px solid #000;
+}
+
+td.scale_month_inactive
+{
+ font: normal 10px verdana,'Bitstream Vera Sans',helvetica,arial,sans-serif;
+ text-align: center;
+ color: #696969;
+}
+
+td.scale_month_disabled
+{
+ background-color: #000000;
+ border-bottom: 1px solid #000;
+ font: normal 10px verdana,'Bitstream Vera Sans',helvetica,arial,sans-serif;
+ text-align: center;
+ color: #696969;
+}
+
+td.ver_inactive
+{
+ font: normal 10px verdana,'Bitstream Vera Sans',helvetica,arial,sans-serif;
+ background-color: #ffffff;
+}
+
+td.ver12
+{
+ border-right: 1px solid #000;
+ font: normal 10px verdana,'Bitstream Vera Sans',helvetica,arial,sans-serif;
+ background-color: #ffffff;
+}
+
+td.ver_active
+{
+ font: normal 10px verdana,'Bitstream Vera Sans',helvetica,arial,sans-serif;
+ background-color: #6495ed;
+ color: #404040;
+}
