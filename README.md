@@ -1,1 +1,1 @@
-random Python stuff
+distributed lock in Django
